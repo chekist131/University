@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="university:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/university_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="university/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="university" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring Data JPA-1.0.0" />
+          <element id="library" level="project" name="Spring MVC-4.2.6.RELEASE" />
+          <element id="library" level="project" name="Spring-4.2.6.RELEASE" />
+          <element id="library" level="project" name="Hibernate 4.2.2-4.2.2" />
+          <element id="library" level="project" name="org.postgresql:postgresql:9.4.1208.jre7" />
+          <element id="library" level="project" name="org.hibernate:hibernate-entitymanager:4.2.2.Final" />
+          <element id="library" level="project" name="org.hibernate:hibernate-ehcache:4.2.2.Final" />
+          <element id="library" level="project" name="org.hibernate:hibernate-c3p0:4.2.2.Final" />
+          <element id="library" level="project" name="javax.servlet:jstl:1.2" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

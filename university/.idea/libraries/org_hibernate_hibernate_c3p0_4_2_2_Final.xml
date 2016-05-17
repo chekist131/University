@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.hibernate:hibernate-c3p0:4.2.2.Final" type="repository">
+    <properties maven-id="org.hibernate:hibernate-c3p0:4.2.2.Final" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/hibernate-c3p0-4.2.2.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/c3p0-0.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
