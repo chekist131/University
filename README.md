@@ -11,6 +11,7 @@ The data base data are related with each other as one-to-many or many-to-many re
 
 ###Uses:
 1. JDK 1.8
+2. Tomcat 9
 2. PostgreSQL 9.4 Database
 3. PostgreSQL 9.4 JDBC Driver
 3. Hibernate 4.2.2 (core + c3p0 + ehcache + entityManager)
