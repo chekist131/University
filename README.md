@@ -1,4 +1,4 @@
-# university
+# University
 Example Spring Project
 
 ###Description:
