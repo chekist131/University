@@ -11,7 +11,8 @@ The data base data are related with each other as one-to-many or many-to-many re
 
 ###Uses:
 1. JDK 1.8
-2. PostgreSQL 9.4
+2. PostgreSQL 9.4 Database
+3. PostgreSQL 9.4 JDBC Driver
 3. Hibernate 4.2.2 (core + c3p0 + ehcache + entityManager)
 4. Spring Core 4.2.6
 5. Spring MVC 4.2.6
